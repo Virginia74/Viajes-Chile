@@ -1,0 +1,57 @@
+body{
+    font-family: "cabin";
+    color: white;
+    background-color: black;
+}
+
+nav{
+    background-color: #373a3c;
+}
+
+.navbar-brand{
+    font-family: "lobster";
+    font-size: 40px;
+}
+
+.container{
+    color: white;
+    background-color: black;
+}
+
+.card{
+    color: white;
+    background-color: #0dcaf0;
+}
+header img {
+    width: 100%;
+}
+
+.border-top-black {
+    border-top-color: black !important;
+}
+
+h4{
+    text-underline-offset: 10px;
+}
+
+ ul {
+    list-style-type: none;
+    padding: 0;
+ }
+ span{
+    font-family: "lobster";
+ }
+ 
+ footer{
+    background-color: #0dcaf0;
+    color: white;
+ }
+ .btn{
+    margin: 10px;;
+ }
+ @media (max-width: 768px) {
+    .btn {
+        margin: 5px;
+
+    }
+ }
